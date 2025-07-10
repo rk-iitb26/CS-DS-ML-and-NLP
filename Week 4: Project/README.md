@@ -1,7 +1,7 @@
 4th week Project of LS: 
 
 **Topic: next word predector and 
-Comparision between Transformers model and LSTM**
+Comparision between GPT2 model and LSTM**
 
 
 Assignment_4/
